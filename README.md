@@ -8,3 +8,5 @@ The Dashboard should calculate
       Total sales per Store location
       Total sales KPI
       Create different slicers
+
+![image](https://github.com/devendradhonde/excel.dashboard/assets/124518095/ef187b68-3e3a-4c33-becd-9ff2897ecc7e)
